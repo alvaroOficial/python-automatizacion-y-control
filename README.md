@@ -1,6 +1,6 @@
 # python-automatizacion-y-control
 
-El repositorio, contiene los códigos e lenguaje python utilizados para automatización y control:\
+El repositorio, contiene los códigos en lenguaje python utilizados para automatización y control:\
 Para el problema 3,de diseño de un control difuso de segmentación de clientes a partir de su salario y dinero ahorrado.
 
 #Abrir el archivo donde se pueda ejecutar script de python\
